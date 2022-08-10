@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Rove App</string>
+    <string name="title_activity_heat_map">Map</string>
+    <string name="title_activity_report_crime">Map</string>
+    <string name="open">1</string>
+    <string name="close">2</string>
+    <string name="select">Select Type</string>
+    <string-array name="Languages">
+        <item>NDPS Act</item>
+        <item>Gambling Act</item>
+        <item>Arms Act</item>
+        <item>Mineral and Mining Act</item>
+        <item>Immoral Traffic Prevention Act</item>
+        <item>Goonda Act</item>
+        <item>Molestation Act</item>
+        <item>Murder</item>
+        <item>Chain Snatching</item>
+        <item>Fraud/Theft</item>
+        <item>Attempt to Murder</item>
+        <item>Suicide</item>
+        <item>Accidental Case</item>
+        <item>Robbery</item>
+        <item>Money Laundry Case</item>
+    </string-array>
+
+    <string-array name="Places">
+        <item>Police Stations</item>
+        <item>Markets</item>
+        <item>Restaurants</item>
+        <item>Hospitals</item>
+        <item>Banks</item>
+    </string-array>
+</resources>

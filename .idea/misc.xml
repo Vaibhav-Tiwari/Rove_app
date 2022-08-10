@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/activity_bar_chart.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/activity_heat_map.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/activity_login.xml" value="0.121875" />
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/activity_report_crime.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/list_item.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/local_police.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/it/OneDrive/Desktop/Identifiers-master/RoveApp/app/src/main/res/layout/nav_header.xml" value="0.20052083333333334" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21145833333333333" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/drawable/ic_logout.xml" value="0.21145833333333333" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/layout/activity_heat_map.xml" value="0.23596014492753623" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/layout/activity_login.xml" value="0.1953125" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/layout/activity_report_crime.xml" value="0.23596014492753623" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/layout/list_item.xml" value="0.1953125" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/layout/local_police.xml" value="0.1953125" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/layout/nav_header.xml" value="0.1953125" />
+        <entry key="..\:/kdfbad/Identifiers-master/RoveApp/app/src/main/res/menu/nav_menu.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
